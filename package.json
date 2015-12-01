@@ -1,0 +1,20 @@
+{
+  "name": "fisx-hook-amd",
+  "version": "0.1.0",
+  "description": "Amd module compiler for fisx.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis",
+    "fisx",
+    "fis3",
+    "amd"
+  ],
+  "author": "sparklewhy@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "fisx-amd": "^0.1.0"
+  }
+}
