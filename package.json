@@ -1,6 +1,6 @@
 {
   "name": "fisx-hook-amd",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The hook to compile amd modules for fisx.",
   "main": "index.js",
   "scripts": {
