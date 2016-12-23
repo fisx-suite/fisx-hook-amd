@@ -1,6 +1,8 @@
 fisx-hook-amd
 ========
 
+[![Dependency Status](https://david-dm.org/wuhy/fisx-hook-amd.svg)](https://david-dm.org/wuhy/fisx-hook-amd) [![devDependency Status](https://david-dm.org/wuhy/fisx-hook-amd/dev-status.svg)](https://david-dm.org/wuhy/fisx-hook-amd#info=devDependencies) [![NPM Version](https://img.shields.io/npm/v/fisx-hook-amd.svg?style=flat)](https://npmjs.org/package/fisx-hook-amd)
+
 > A hook to compile amd modules for fisx.
 
 
