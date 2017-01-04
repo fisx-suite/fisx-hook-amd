@@ -44,7 +44,36 @@ fis.hook('amd', {
         config: fis.getModuleConfig()
     }    
     ```
+
+* externals - `Array`: specify the external module ids:
     
+    ```javascript
+    {
+        externals: [
+          'jquery', 
+          /vue\-hot\-reload\-api$/
+        ]
+    }
+  
+    // the AMD require shim config
+    {
+        shim: {
+            jquery: {
+                exports: '$'
+            }
+        }
+    }
+    ```
+* dynamic - `Array`: specify the dynamic generated module ids while compiling: 
+
+    ```
+    {
+        dynamic: [
+            'babelHelpers'
+        ]
+    }
+    ```
+
 * parseScript - `Function`: `optional` parsing page amd modules, the option is used when the page is not standard html file, e.g., smarty template file:
    
    ```javascript
