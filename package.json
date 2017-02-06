@@ -1,6 +1,6 @@
 {
   "name": "fisx-hook-amd",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "The hook to compile amd modules for fisx.",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,6 @@
   "author": "sparklewhy@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "fisx-amd": "^0.2.2"
+    "fisx-amd": "^0.2.3"
   }
 }
