@@ -69,7 +69,7 @@ module.exports = exports = function (fis, opts) {
     }
 
     // 初始化 模块配置
-    amdCompiler.initModuleConfig(opts.config, fis);
+    amdCompiler.initModuleConfig(opts, fis);
 
     // 事件监听
     fis.on('standard:js', function (info) {
