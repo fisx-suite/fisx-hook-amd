@@ -74,6 +74,16 @@ fis.hook('amd', {
     }
     ```
 
+* extNames - `Array`: specify the amd module extension names, by default: `['.js', '.vue']`: 
+
+    ```
+    {
+        extNames: [
+            '.js', '.vue'
+        ]
+    }
+    ```
+
 * parseScript - `Function`: `optional` parsing page amd modules, the option is used when the page is not standard html file, e.g., smarty template file:
    
    ```javascript
