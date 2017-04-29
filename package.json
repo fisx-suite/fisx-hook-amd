@@ -1,6 +1,6 @@
 {
   "name": "fisx-hook-amd",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "The hook to compile amd modules for fisx.",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wuhy/fisx-hook-amd.git"
+    "url": "https://github.com/fisx-suite/fisx-hook-amd.git"
   },
   "bugs": {
-    "url": "http://github.com/wuhy/fisx-hook-amd/issues"
+    "url": "http://github.com/fisx-suite/fisx-hook-amd/issues"
   },
   "keywords": [
     "fis",
